@@ -1,0 +1,18 @@
+html {
+    background-image: url("https://avatars.mds.yandex.net/i?id=bb8096805c9703a3c58827dd562b30b2b055cc46-8910959-images-thumbs&n=13");
+ }
+
+
+.form-group {
+    background: rgb(231, 231, 230);
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+    color: rgb(65, 62, 62);
+}
+
+#cipher {
+    color: rgb(210, 30, 33);
+}
